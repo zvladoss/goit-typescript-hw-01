@@ -15,3 +15,4 @@ function compare<
     weight: bottom.weight,
   };
 }
+export default compare;

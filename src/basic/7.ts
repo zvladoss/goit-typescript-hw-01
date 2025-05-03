@@ -26,3 +26,4 @@ const page2: Page = {
   accounts: ["Alex"],
   status: "close",
 };
+export default { page1, page2 };

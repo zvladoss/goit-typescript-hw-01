@@ -9,3 +9,5 @@ function calc(num1: number, num2: number): number {
 function customError() {
   throw new Error("Error");
 }
+
+export default { showMessage, calc, customError };
