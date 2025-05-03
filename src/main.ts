@@ -1,4 +1,4 @@
-import "../../goit-typescript-hw-01/src/style.css";
+import "./style.css";
 import typescriptLogo from "./typescript.svg";
 import viteLogo from "/vite.svg";
 import { setupCounter } from "./counter.ts";
